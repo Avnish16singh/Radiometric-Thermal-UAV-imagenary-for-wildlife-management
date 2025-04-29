@@ -1,0 +1,13 @@
+KEY FEATURES
+ 
+REAL TIME MONITORING: Uses of UAs with thermal sensors to capture live data of wildfire areas, enabling near-instant analysis.
+
+FIRE HOTSPOT DETECTION: Thermal imaginary to identify active hotspots, enabling quick response from firefighting teams.
+
+FIRE INTENSITY MAPPING: Radiometric thermals sensors to assess the intensity and the heat of fire regions, providing valuable data for resource  allocation.
+
+GEOSPATIAL MAPPING: Integration of UAV data with Geographic Information Systems(GIS) for mapping fire parameters, assessing  burn areas, and identifying escapes routes.
+
+PREDICTIVE ANALYTICS: Machine learning algorithms applied to predict fire behavior based on thermal data, wind direction, and topological features.
+
+COST EFFECTIVE: Drones are the most cost-effective than manned aircraft and satellite systems while providing more granular data.
